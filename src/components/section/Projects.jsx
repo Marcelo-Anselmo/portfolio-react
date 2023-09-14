@@ -1,7 +1,7 @@
 import styles from './Projects.module.css'
 import ButtonB from '../elements/ButtonB'
 import Card from '../elements/Card';
-import bootcampdnc from "../../images/Projects/bootCampdnc.png"
+import bootcampdnc from "../../images/Projects/bootcampdnc.png"
 import ccxp from  '../../images/Projects/CCXP.png'
 import grprod from "../../images/Projects/Grprod.png";
 
