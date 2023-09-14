@@ -34,10 +34,12 @@ function Projects() {
           repo="https://github.com/Marcelo-Anselmo/Gerenciador_de_Produtos"
           site="https://marcelo-anselmo.github.io/Gerenciador_de_Produtos/"
         />
-        <ButtonB
-          text="Acesse meu repositório"
-          link="https://github.com/Marcelo-Anselmo?tab=repositories"
-        />
+        <div className={styles.btn}>
+          <ButtonB
+            text="Acesse meu repositório"
+            link="https://github.com/Marcelo-Anselmo?tab=repositories"
+          />
+        </div>
       </div>
     </>
   );

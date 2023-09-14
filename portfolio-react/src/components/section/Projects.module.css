@@ -6,3 +6,8 @@
 .projects h1 {
     font-size: 45px;
 }
+
+.btn a {
+    display: flex;
+    justify-content: center;
+}
